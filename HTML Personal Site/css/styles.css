@@ -1,0 +1,31 @@
+body{
+    background-color: azure;
+}
+
+hr{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    background-color: azure;
+    width: 4%;
+}
+
+h1,h2 {
+    color: rgb(84, 150, 84);
+}
+
+
+/* 
+Tag Selectors 
+
+h1{
+    property value
+}
+
+Class Selctors
+.name{} 
+.animal{} 
+
+class = "name animal"
+ */

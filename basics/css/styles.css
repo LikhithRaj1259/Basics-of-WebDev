@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topContainer{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middleContainer{
+    
+}
+
+.bottomContainer{
+    
+}
+
+.bottomCloud{
+    position: absolute;
+}
+
+.topCloud{
+    position: relative;
+    left: 10%;
+}
+
