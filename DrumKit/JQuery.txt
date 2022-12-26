@@ -1,0 +1,9 @@
+$("button").keydown(function(event){
+    console.log(event.key);
+})
+
+$("h1").css("color","purple");
+
+.animate({})                          //css with numeric value only
+.slideUp.slideDown.animate({})        //all happens in order
+
